@@ -1,3 +1,7 @@
+## Learning resources:
+- https://spring.io/guides/gs/consuming-rest/
+
+
 :spring_version: current
 :toc:
 :project_id: gs-rest-service
