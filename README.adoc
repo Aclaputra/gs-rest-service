@@ -1,4 +1,5 @@
 ## Learning resources:
+- https://spring.io/guides/gs/rest-service/#initial
 - https://spring.io/guides/gs/consuming-rest/
 
 
