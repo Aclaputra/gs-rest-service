@@ -1,6 +1,6 @@
 # gs-rest-service
 
-Tutorial Consuming Restful api using spring boot from official documentation
+Tutorial Consuming RESTful api using spring boot from official documentation
 
 ## Learning resources:
 - https://spring.io/guides/gs/rest-service/#initial
